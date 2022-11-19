@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/564x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg)]
+[![MasterHead](https://i.pinimg.com/564x/4d/15/5c/4d155c6f7e5b1c6942059703c403ecaf.jpg)](https://github.com/tarakresna001)
 <h1 align="center">Hi 👋, I'm Nanda Kresnatara</h1>
-<h3 align="center">A newcomer in frontend developer from Indonesia</h3>
+<h3 align="center">A newcomer in frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarakresna001&label=Profile%20views&color=0e75b6&style=flat" alt="tarakresna001" /> </p>
 
